@@ -18,8 +18,6 @@
 //qt
 #include <QLayout>
 #include <QRect>
-//playbak
-#include "AbstractMosaicItem.h"
 
 /** 
  * This layout adds item horizontally and then vertically 
